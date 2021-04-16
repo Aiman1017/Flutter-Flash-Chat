@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202533943670",
+    "project_id": "flash-chat-76677",
+    "storage_bucket": "flash-chat-76677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202533943670:android:351e7c1028aa846c8ce257",
+        "android_client_info": {
+          "package_name": "co.Aiman.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202533943670-f0j5aoci4qi1lmpcukqfg4pjthovh34f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJzM7DAgCdFEJjzWDlAJrrMfW2Yg3jCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202533943670-f0j5aoci4qi1lmpcukqfg4pjthovh34f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
